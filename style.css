@@ -33,7 +33,7 @@ h1{
 
 }
 
-button{
+button {
     background-color: #05c7cf;
     color: white;
     border: none;
@@ -52,17 +52,18 @@ a {
     width: 300px;
 }
 
-ul{
+ul {
     display: flex;
 }
 
-li
-{
+li {
     list-style-type: none;
-    padding: 0 16px;
+    padding-left: 16px;
 }
 
 .row {
     width: 100%;
-    max-width: 800px;
+    max-width: 1300px;
+    display: flex;
+    align-items: center;
 }

@@ -147,3 +147,10 @@ form{
     flex-direction: column;
     margin: 0 auto;
 }
+
+input,
+textarea{
+    margin-bottom: 24px;
+    padding: 12px;
+    font-size: 18px;     
+}

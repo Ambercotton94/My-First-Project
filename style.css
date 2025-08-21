@@ -139,3 +139,11 @@ CONTACT
 #contact{
     background-color: #dce9ff;
 }
+
+form{
+    width: 100%;
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}

@@ -218,6 +218,13 @@ footer{
         flex-direction: column;
     }   
 
+    .section__description--wrapper{
+        width: 100%;
+    }
+
+    #discord .section__description{
+        flex-direction: column-reverse;
+    }
 
 }
     
